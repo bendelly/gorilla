@@ -1,0 +1,22 @@
+.row {
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+.one-third{
+    width: 33%;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+	float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.one-fourth {
+    width: 24.5%;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
